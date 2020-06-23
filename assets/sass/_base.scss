@@ -66,8 +66,7 @@ a {
 
 .container {
   margin: 0 auto;
-  max-width: $global-body-width;
- // width: 50%;
+  width: $global-body-width;
 }
 
 @include max-screen() {
